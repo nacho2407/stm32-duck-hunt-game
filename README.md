@@ -6,9 +6,9 @@
 
 ![screenshot2.png](./Docs/screenshot2.png)
 
-- Game Play Video
+![gameplay.gif](./Docs/gameplay.gif)
 
-  https://github.com/pnu-2025-esdl-wed-1/stm32-duck-hunt-game/raw/refs/heads/main/Docs/gameplay.mp4
+- Gameplay Video: [gameplay_vid.mp4](./Docs/gameplay_vid.mp4)
 
 Unity로 구현한 게임 Duck Hunt입니다. STM32 시리얼 통신을 통한 센서 입력 기반 슈팅 메커니즘을 포함합니다.
 
